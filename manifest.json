@@ -1,0 +1,19 @@
+{
+  "name": "Şehit Fevzi 29. Bölge 1. Etap Bakım Takip",
+  "short_name": "Bakım Takip",
+  "lang": "tr-TR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#315be8",
+  "description": "Site eksik, arıza, tadilat ve bakım kayıtlarını çevrimdışı takip edin.",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
